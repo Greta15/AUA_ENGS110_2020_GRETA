@@ -16,12 +16,11 @@ Program let people to.
 
 
 • Add people from Contacts
-• Track Budgeting and Analytics to get all the information you need
 • Sort people by groups: Family, Friends, Co-workers, etc.
-• Sort gifts by stores
-• Photos of people and gifts
+• Sort gifts by budget your budget
+• Photos  gifts
 • View color images, full descriptions, rating and reviews of all suggested gifts before buying
-• Buy direct from supplier or manufacturer 
+
 
 
 
@@ -55,8 +54,9 @@ Resolution: Free app with absolutely no additional fees for conveniently orderin
 •	YourGift is truly a lifesaver to keep on track. It has definitely made the frustration of the holidays cool down. This is great if you've a lot of people to purchase presents for and feel like you're losing your mind.
 •	I have sent him several emails, and administrators always respond within a few hours with an incredibly helpful response.
 •	Attractive, easy to use menu with tons of different options means you get tailored gift suggestions for the exact person you’re buying for
-•	Intuitive technology learns from users, so the more you interact with it, the more it learns what you’re looking for
-•	It has a great opportunity buy direct from supplier or manufacturer
+•	You set  your friends proffesion, preferences and age range
+•	It has a great opportunity buying a gift from your income range
+
 Competitors
 The apps that do similar functions, the competitors
 Technical Process and Specs
