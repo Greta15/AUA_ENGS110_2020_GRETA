@@ -18,7 +18,7 @@ Program let people to.
 • Add people from Contacts
 • Sort people by groups: Family, Friends, Co-workers, etc.
 • Choose a gift by naming the profession, style and age for people whom they  will give a present 
-• Sort gifts by budget your budget
+• Sort gifts by your budget
 • View color images, full descriptions, rating and reviews of all suggested gifts before buying
 
 
