@@ -1,7 +1,7 @@
 import json
 def user_info():
   useOldData = input('Do you want to use your old data?')
-  file = open('data.json')
+  file = open('data2.json')
   old_data = json.load(file)
   if(useOldData.lower() == 'yes'):
     profession = old_data['profession']
@@ -14,7 +14,7 @@ def user_info():
     old_data['profession'] = profession
     old_data['age'] = age
     old_data['style'] = style
-    file = open("data.json", "w")
+    file = open("data2.json", "w")
     file.write(json.dumps(old_data))
     file.close()
   if (profession == 'doctor'):
