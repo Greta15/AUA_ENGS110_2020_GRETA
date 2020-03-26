@@ -39,10 +39,7 @@ User Need: Still trying to figure out what to buy?
 Resolution: YourGift app recommends gift ideas based on what type of reaction users are trying to get, what is the occasion and what is the occasion of the gift.
 
 User Need: Not ready to buy yet?
-Resolution: With a “buy now, pay later” option save and share your ideas separately for each friend until you're ready to buy.
-
-User Need: Is there any feature that helps users to select the right preferences?
-Resolution: Use 14 filters to quickly find the information you need. For example, Set a target price for a gift and follow the price trends get a direct message from YourGift when the gift has reached your desired price.
+Resolution: With a “buy now, pay later” option save and share your ideas separately for each friend until you're ready to buy
 
 User Need: Is there any kind of payments for ordering online?
 Resolution: Free app with absolutely no additional fees for conveniently ordering online
