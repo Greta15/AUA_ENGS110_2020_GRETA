@@ -1,0 +1,1 @@
+[{"gender": "male", "price": 30}, {"gender": "male", "price": 61}, {"gender": "female", "price": 21}, {"gender": "female", "price": 101}]
